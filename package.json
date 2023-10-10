@@ -1,0 +1,15 @@
+{
+  "name": "oskm",
+  "description": "Knowledge map of platform engineering",
+  "scripts": {
+    "prebuild": "mkdir -p map/",
+    "build": "npm run build:default -- --no-open",
+    "build:default": "markmap Content/peskm.md --output map/index.html",
+    "dev": "npm run build:default -- --watch"
+  },
+  "dependencies": {
+    "markmap-cli": "^0.14.3",
+    "markmap-common": "^0.14.2"
+  },
+  "license": "CC-BY-4.0"
+}
