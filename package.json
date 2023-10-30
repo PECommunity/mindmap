@@ -2,9 +2,9 @@
   "name": "oskm",
   "description": "Mindmap of platform engineering",
   "scripts": {
-    "prebuild": "mkdir -p map/",
+    "prebuild": "",
     "build": "npm run build:default -- --no-open",
-    "build:default": "markmap Content/pem.md --output map/index.html",
+    "build:default": "markmap Content/pem.md --output index.html",
     "dev": "npm run build:default -- --watch"
   },
   "dependencies": {
