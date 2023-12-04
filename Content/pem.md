@@ -25,20 +25,20 @@ markmap:
 - 平台工程参考架构
 
 ## 工具链
-- 平台工具全景图 https://platformengineering.org/platform-tooling 
+- [平台工具全景图](https://platformengineering.org/platform-tooling )
 
 ## 开源项目
 - Backstage - 开源的内部开发者门户解决方案 
 
 ## 活动与会议
-- PlatformCon
-    - 2022 https://2022.platformcon.com/
-    - 2023 https://2023.platformcon.com/
-    - 2024 https://platformcon.com/  2024-6-10~14 
+- PlatformCon https://platformcon.com/
+    - [2022](https://2022.platformcon.com/)
+    - [2023](https://2023.platformcon.com/)
+    - [2024](https://platformcon.com/)  6-10~14
 
 ## 社区与组织 
-- Platform Engineering https://platformengineering.org/
-- PECommunity 平台工程社区·中国 https://pecommunity.cn/ 
+- [Platform Engineering](https://platformengineering.org/)
+- [PECommunity 平台工程社区·中国](https://pecommunity.cn/) 
 
 ## 图书与出版物 
 
